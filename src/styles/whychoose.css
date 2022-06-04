@@ -1,0 +1,43 @@
+.chooseLeftBoxText {
+  text-align: right;
+  background: #119de5;
+  padding: 1rem;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  transition: 0.5s;
+  cursor: pointer;
+}
+.chooseLeftBoxText:hover {
+  background-color: black;
+}
+.chooseRightBoxText {
+  text-align: left;
+  background: #119de5;
+  padding: 1rem;
+  color: white;
+  transition: 0.5s;
+  cursor: pointer;
+}
+.chooseRightBoxText:hover {
+  background-color: black;
+}
+
+.chooseRightBoxText span i {
+  font-size: 2rem;
+  padding: 1rem 0;
+}
+.chooseLeftBoxText span i {
+  font-size: 2rem;
+  padding: 1rem 0;
+}
+
+.chooseRightBoxText h6 {
+  font-size: 1.5rem;
+  line-height: 2;
+}
+.chooseLeftBoxText h6 {
+  font-size: 1.5rem;
+  line-height: 2;
+}

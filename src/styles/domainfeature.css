@@ -1,0 +1,14 @@
+.featureCard span i {
+  color: #31abe9;
+  font-size: 2rem;
+  line-height: 2.2;
+}
+.featureCard h5 {
+  font-size: 1.5rem;
+  line-height: 2.2;
+}
+.featureCard {
+  background: #9d9a9a26;
+  padding: 1rem;
+  border-radius: 5px;
+}

@@ -1,0 +1,29 @@
+.mainClients {
+  background: #f9f9f9;
+}
+.slider_text p {
+  font-style: italic;
+  font-size: 15px;
+  border-left: 2px solid grey;
+  padding-left: 1rem;
+  margin: 1rem 0;
+}
+.clientsPhotos h6 {
+  font-size: 13px;
+  line-height: 1;
+}
+
+.clientsPhotos span i {
+  font-size: 3rem;
+  padding: 0 1rem 0 0;
+}
+.lastClientsCards {
+  background: #119de5;
+  color: white;
+}
+.clientsCardText span i {
+  font-size: 20px;
+}
+.clientsCardText span {
+  padding: 0 10px;
+}

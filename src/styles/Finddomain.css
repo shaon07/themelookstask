@@ -1,0 +1,43 @@
+.mainFindDomain {
+  background: black;
+  padding: 2rem;
+  color: white;
+}
+.findDomain {
+  text-align: center;
+}
+.domainPrice {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.domainPriceList {
+  padding: 1rem;
+}
+.findDomain h5 {
+  font-size: 1rem;
+}
+.findDomain h2 {
+  font-size: 2.2rem;
+  margin: 1.2rem;
+}
+.domainInputBoxCard input {
+  width: 35%;
+  padding: 5px 1rem;
+  /* border: 7px solid #119de5; */
+}
+.domainInputBoxCard {
+  border: 5px solid #119de5;
+  display: inline;
+  padding: 8px 0px;
+}
+.domainInputBoxCard select {
+  background: black;
+  color: white;
+  outline: none;
+  border: none;
+  padding: 5px;
+}
+.domainInputBoxCard select:focus {
+  border: none;
+}
